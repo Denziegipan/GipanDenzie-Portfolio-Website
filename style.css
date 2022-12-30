@@ -71,8 +71,8 @@ nav ul li a:hover::after{
     /*BUTTONS*/
 .button {
   display: inline-block;
-  background-color: var(--first-color);
-  color: #fff;
+  background-color: #0a0457 ;
+  color: #ff004f;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
